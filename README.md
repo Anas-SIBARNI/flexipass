@@ -59,3 +59,6 @@ Les mots de passe générés peuvent être enregistrés dans un fichier `mots_de
 - Ajouter un affichage explicite du niveau de sécurité.
 - Ajouter une image personnalisée à la fenêtre.
 
+### PS
+
+Le projet a légèrement été modifié depuis le lycée, notamment le nom du logiciel.
