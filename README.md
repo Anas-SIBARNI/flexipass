@@ -1,6 +1,6 @@
 # Générateur de mots de passe - Python (CustomTkinter)
 
-Ce projet est une application de bureau développée en Python utilisant **CustomTkinter**. Elle implemente la possibilité de générer, copier et enregistrer des mots de passe sécurisés selon des critères personnalisables.
+Ce projet est une application de bureau développée par 3 élèves de terminale NSI, en Python utilisant **CustomTkinter**. Elle implemente la possibilité de générer, copier et enregistrer des mots de passe sécurisés selon des critères personnalisables.
 
 ## 🔐 Fonctionnalités
 
@@ -59,7 +59,3 @@ Les mots de passe générés peuvent être enregistrés dans un fichier `mots_de
 - Ajouter un affichage explicite du niveau de sécurité.
 - Ajouter une image personnalisée à la fenêtre.
 
-## Auteur
-
-**Anas Sibarni** – Étudiant en B.U.T Informatique  
-Projet réalisé dans le cadre de mes études.
